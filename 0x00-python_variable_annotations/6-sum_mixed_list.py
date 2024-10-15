@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """ Basic Annotations"""
 
 from typing import List, Union

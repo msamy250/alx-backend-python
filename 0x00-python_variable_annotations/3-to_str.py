@@ -2,6 +2,6 @@
 """ Basic Annotations"""
 
 
-def to_str(n: float) -> int:
+def to_str(n: float) -> float:
     """takes a float n as argument"""
-    return str.to_str(n)
+    return str(n)
